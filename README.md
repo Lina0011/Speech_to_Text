@@ -1,14 +1,6 @@
-# IBM-Watson-STT-and-TTS<br>
-chatbot using IBM services speech to text and text to speech<br>
-<br>مشروع المهمة الرابعه
-<br>........................................................<br><br>
-تم تحويل الصوت إلى نص بواسطة >IBM watson speech to text<<br>
-تم حفظ النص في ملف .txt <br>
-تم تحويل النص إلى صوت بواسطة >IBM watson text to speech<<br>
-تم حفظ الصوت في ملف .mp3 <br>
-تم دمج الخدمتين مع المساعد الألي >IBM Watson Assistant<<br>
-<br>..................................................<br>
-<br>الشرح
-<br>من خلال هذا البرنامج تستطيع التفاعل مع المساعد من خلال الصوت
-<br>حيث أنه سيقوم بتحوبل الصوت إلى نص و إرساله إلى المساعد 
-<br>ثم يقوم بأخذ الرد من المساعد وتحوبله إلى صوت وتشغيله
+المهمة الرابعه
+IBM watson speech to text
+IBM watson text to speech
+using python 
+المهمة الخامسة
+Merge it to watson assistant 
